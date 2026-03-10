@@ -1,4 +1,4 @@
-namespace fflags {
+namespace FFlags {
     inline uintptr_t FflagADS4948SendUniverseIdToEventStream = 0x7954e98;
     inline uintptr_t FflagAEGIS2ActivateEnableChatButtonTelemetry = 0x78cd9f8;
     inline uintptr_t FflagAESEnableAvatarThumbnailRefresh = 0x78e09b8;
